@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "155sfdf4g5dfv1f546d",
+      "title": "Crefcard",
+      "description": "CrefCard is my full-stack project designed for creating flashcards to rember our content.",
+      "image" : "Group 1.png",
+      "project_links" : "https://crefcard.onrender.com/"
+    },
+    {
+        "id" : "1",
+      "title": "Pt. Shyamaprasad Mukharji",
+      "description": "This was my first clone project during my internship, using with HTML, CSS, JavaScript, Bootstrap.",
+      "image" : "shyama.png",
+      "project_links" : "https://shyama-prasad-mukharjee-college.vercel.app/"
+    },
+    {
+         "id" : "2",
+      "title": "Fansi web clone",
+      "description": "These are my internship clone projects that I created for practice during my internship.",
+      "image" : "fansiweb.png",
+      "project_links" : "https://philip-gilbart.vercel.app/"
+    },
+    {
+         "id" : "3",
+      "year": "2024",
+      "title": "World toure web clone",
+      "description": "These are my internship clone projects that I created for practice during my internship.",
+      "image" : "tourweb.png",
+      "project_links" : "https://flip-albert-frontend-practice-project.vercel.app/"
+    },
+    {
+         "id" : "4",
+      "year": "2024",
+      "title": "ValueAppz",
+      "description": "These are my internship clone projects that I created for practice during my internship.",
+      "image" : "valueappz.png",
+      "project_links" : "https://value-appz.vercel.app/"
+    },
+    {
+         "id" : "5",
+      "title": "TodoList",
+      "description": "This is my to-do list app that I have created using React. It works like my pocket notes.",
+      "image" : "todoList (2).png",
+      "project_links" : "https://todo-ayush.vercel.app/"
+    }
+  ]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "category": "Frontend",
+        "skills": [
+            {
+                "img_url": "./logo/html-logo.svg",
+                "title": "HTML"
+            },
+            {
+                "img_url": "./logo/css-logo.svg",
+                "title": "CSS"
+            },
+            {
+                "img_url": "./logo/js-logo.svg",
+                "title": "JavaScript"
+            },
+            {
+                "img_url": "./logo/react-logo.svg",
+                "title": "ReactJs"
+            },
+            {
+                "img_url": "./logo/tailwind-logo.svg",
+                "title": "Tailwind css"
+            },
+            {
+                "img_url": "./logo/bootstrap-logo.svg",
+                "title": "Bootstrap"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category": "Dev Tools",
+        "skills": [
+            {
+                "img_url": "./logo/figma-logo.svg",
+                "title": "Figma"
+            },
+            {
+                "img_url": "./logo/canva-logo.svg",
+                "title": "Canva"
+            },
+            {
+                "img_url": "./logo/github-light-logo.svg",
+                "title": "Github"
+            },  
+            {
+                "img_url": "./logo/git-logo.svg",
+                "title": "Git"
+            },
+            {
+                "img_url": "./logo/vscode-logo.svg",
+                "title": "Vscode"
+            },
+            {
+                "img_url": "./logo/postman-icon-svgrepo-com.svg",
+                "title": "Postman"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category": "Backend",
+        "skills": [
+            {
+                "img_url": "./logo/mongodb-logo.svg",
+                "title": "Node.js"
+            },
+            {
+                "img_url": "./logo/expressjs-logo.svg",
+                "title": "Python"
+            },
+            {
+                "img_url": "./logo/nodejs-logo.svg",
+                "title": "Python"
+            }
+        ]
+    }
+]
