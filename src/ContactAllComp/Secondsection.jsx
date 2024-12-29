@@ -73,7 +73,7 @@ const Secondsection = () => {
                         className='bg-transparent border-2 pl-2 outline-none rounded-[3px]'
                         placeholder='Enter Username' />
                       <input
-                        type="text"
+                        type="email"
                         name='Email'
                         required autoComplete='off'
                         className='bg-transparent border-2 pl-2 outline-none rounded-[3px]'

@@ -5,11 +5,11 @@ import About from './Pages/About';
 import Contact from './Pages/Contact';
 import AppLayout from './Component/Layout/AppLayout';
 import { ErrorPage } from './Pages/ErrorPage';
-import { Homeintro } from './Homecomponents/Homeintro';
-import Aboutsection from './AboutComponents/Aboutsection';
+// import { Homeintro } from './Homecomponents/Homeintro';
+// import Aboutsection from './AboutComponents/Aboutsection';
 import Projects from './Pages/Projects';
-import { ProjectIntro } from './ProjectComp/ProjectIntro';
-import { ContactAllComp } from './ContactAllComp/ContactAllComp';
+// import { ProjectIntro } from './ProjectComp/ProjectIntro';
+// import { ContactAllComp } from './ContactAllComp/ContactAllComp';
 import { contactData } from './ContactAllComp/Secondsection';
 
 const App = () => {
@@ -22,23 +22,19 @@ const App = () => {
       children: [
         {
           path: "/",   
-          element: <Home />,
-          loader: Homeintro,
+          element: <Home />
         },
         {
           path: "/about",   
-          element: <About />,
-          loader: Aboutsection,
+          element: <About />
         },
         {
           path: "/projects",  
-          element: <Projects />,
-          loader: ProjectIntro,
+          element: <Projects />
         },
         {
           path: "/contact",  
           element: <Contact />,
-          loader: ContactAllComp,
           action: contactData,
         },
       ]
