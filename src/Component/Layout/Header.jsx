@@ -38,7 +38,7 @@ const Header = () => {
           <div className="nav-activs header-navs font-semibold gap-14 items-center hidden sm:flex">
             <NavLink to="/">Home</NavLink>
             <NavLink to="/about">About</NavLink>
-            <NavLink to="/Projects">Projects</NavLink>
+            <NavLink to="/projects">Projects</NavLink>
             <NavLink to="/contact">Contact</NavLink>
             <ThemeToggle />
           </div>
@@ -51,7 +51,7 @@ const Header = () => {
             <h1 className='font-bold jost'>Menu</h1>
             <NavLink to="/">Home</NavLink>
             <NavLink to="/about">About</NavLink>
-            <NavLink to="/Projects">Projects</NavLink>
+            <NavLink to="/projects">Projects</NavLink>
             <NavLink to="/contact">Contact</NavLink>
             <ThemeToggle />
           </div>

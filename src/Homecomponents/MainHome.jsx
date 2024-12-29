@@ -14,8 +14,8 @@ export const MainHome = () => {
     return (
         <section id="home">
             <div className="max-w-[1280px] flex-1">
-                <div className="menu grid sm:grid-cols-1 md:grid-cols-2 justify-between my-20 w-full">
-                    <div className="home-int-1 mb-10 mt-5 md:mt-5 p-5 sm:p-0 text-white flex flex-col justify-center items-start sm:flex text-center md:text-left">
+                <div className="menu grid sm:grid-cols-1 md:grid-cols-2 justify-between my-20 w-full sm:px-10 lg:px-0">
+                    <div className="home-int-1 mb-10 mt-5 md:mt-5 p-5 sm:p-0 text-white flex flex-col justify-center items-start sm:flex md:text-left">
                         <pre className="text-xl text-[#6F7C96] dark:text-gray-100 font-bold text-center home-int-anim">A Y U S H  T I W A R I</pre>
                         <h1 className="rahul my-2 text-slate-800 dark:text-white text-[3.5rem] md:text-[3.5rem] font-bold home-int-anim">Full Stack Developer</h1>
 
