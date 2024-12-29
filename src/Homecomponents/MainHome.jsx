@@ -26,7 +26,7 @@ export const MainHome = () => {
                             <Button 
                             text="Get in Touch" FillAnyColor={Secondrybtn} label="Contact" />
                             </a>
-                            <a href="./ayushcv.pdf" download>
+                            <a href="./myResume.pdf" download>
                                 <Button 
                                 text="View Portfolio" label="Download CV" color="blue"
                                 FillAnyColor={btnColor} />
