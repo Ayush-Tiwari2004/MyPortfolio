@@ -78,7 +78,7 @@ h6{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .contact-img{
-    background-image: url('contactimg1.jpg');
+    background-image: url('/logo/contactimg1.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 70vh;    
