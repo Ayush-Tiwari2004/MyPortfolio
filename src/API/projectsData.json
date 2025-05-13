@@ -7,6 +7,13 @@
       "project_links" : "https://crefcard.onrender.com/"
     },
     {
+        "id" : "155sfdfklsdfjoiv5sf",
+      "title": "HappyChat",
+      "description": "Hey, this is my HappyChat app — you can do real-time communication in it.",
+      "image" : "happyChat.png",
+      "project_links" : "https://happy-chat-iota.vercel.app/"
+    },
+    {
         "id" : "1",
       "title": "Pt. Shyamaprasad Mukharji",
       "description": "This was my first clone project during my internship, using with HTML, CSS, JavaScript, Bootstrap.",
